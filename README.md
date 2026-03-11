@@ -40,6 +40,9 @@ Half wave rectifier with filter:
 
 Bridge rectifier with filter:
 
+[EXP 4.pdf](https://github.com/user-attachments/files/25895394/EXP.4.pdf)
+
+
 TABULAR COLUMN
 Rectifier without filter
 TABULAR COLUMN
