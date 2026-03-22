@@ -38,18 +38,35 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+<img width="552" height="243" alt="{A1FF01AA-4E13-45DC-ADC0-2B717578A540}" src="https://github.com/user-attachments/assets/5d5ffee8-47ed-41c3-b08d-a42383582c30" />
+
+
 Bridge rectifier with filter:
 
-[EXP 4.pdf](https://github.com/user-attachments/files/25895394/EXP.4.pdf)
+<img width="547" height="255" alt="{2ACD52FC-2F43-446E-8120-8018C154B0D8}" src="https://github.com/user-attachments/assets/d10e4e84-2d22-4691-bfbb-62d918f53b6b" />
 
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+
+Rectifier with and without filter
+
+<img width="664" height="820" alt="{B1C9640A-A5D9-4784-8A59-6F085BED99F1}" src="https://github.com/user-attachments/assets/85e475fe-ea8d-4956-9cc3-fc946485ce64" />
+
+<img width="640" height="843" alt="{3B394E46-3FE1-4D84-82F5-B7EFE068920F}" src="https://github.com/user-attachments/assets/e199719f-7952-4fe8-a259-849f1b01d601" />
 
 WAVEFORM:
 
+Rectifier without filter
+
+<img width="556" height="304" alt="{406392CB-7C97-46FF-B68C-DA2F8A8CB222}" src="https://github.com/user-attachments/assets/e32c71cc-086e-468d-a286-acbb5dca77c7" />
+
+<img width="556" height="308" alt="image" src="https://github.com/user-attachments/assets/4e26e3cd-ab7d-40c8-9cd6-a14862c90912" />
+
+Rectifier with filter
+
+<img width="553" height="297" alt="{AF879F48-F364-4971-9D09-A3D3ACDF8F78}" src="https://github.com/user-attachments/assets/37892efd-1141-4f17-b993-296011c7842b" />
+
+<img width="550" height="317" alt="{BA39AA2A-6001-4DF7-9ACD-73CE61F2464A}" src="https://github.com/user-attachments/assets/19ec7fad-c81c-4f3b-be24-82d26f06fc87" />
 
 RESULT:
 
