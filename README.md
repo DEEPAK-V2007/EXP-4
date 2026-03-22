@@ -68,6 +68,18 @@ Rectifier with filter
 
 <img width="550" height="317" alt="{BA39AA2A-6001-4DF7-9ACD-73CE61F2464A}" src="https://github.com/user-attachments/assets/19ec7fad-c81c-4f3b-be24-82d26f06fc87" />
 
+GRAPHS:
+
+Half wave rectifier:
+
+<img width="669" height="847" alt="{5551A98B-B335-4F3D-85E3-5C3C5839A91F}" src="https://github.com/user-attachments/assets/7bf6d5c2-e151-4b4d-84d2-5ecb51d9942a" />
+
+
+Bridge rectifier:
+
+<img width="667" height="791" alt="{4F9EC9FF-9324-4DC5-B54D-AA1F543F1D11}" src="https://github.com/user-attachments/assets/22c03db9-9c1a-4338-a037-af586dbc02d4" />
+
+
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
